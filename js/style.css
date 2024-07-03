@@ -1,0 +1,12 @@
+.header{
+    width: 60px;
+}
+
+.carousel-item{
+    width: 50%;
+    transform: translateX(-100%);
+}
+.carousel-inner{
+    display: flex;
+    justify-content: center;
+}
